@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**tymem12/tymem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tymek and I'm currently a **student of Applied Computer Science** from Poland, passionate about exploring the ever-evolving world of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Currently Working On:
+- **Deep Fake Audio Detection**: Developing a program to detect manipulated audio. Check it out [here](https://github.com/tymem12/ear-defender).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💡 Interests:
+- **Artificial Intelligence**
+- **Machine Learning & Deep Learning**
+- **Python**
+- **Java**  
+
+
+<!---
+your comment goes here
+and here
+
+[//]: ## 🔭 Other Projects:
+ - **[Simple RAG system](https://github.com/tymem12/RAG_indexing)**:  Web application, utilizing the RAG (Retrieval-Augmented Generation) mechanism to extract the most relevant articles from a given dataset.
+
 -->
+  
+
+---
+
+**Let's connect:**
+- 📧 Email: [tymekzapala12@gmail.com]
+
