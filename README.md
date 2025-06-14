@@ -1,16 +1,14 @@
 # Hi there! 👋
 
-My name is Tymek and I'm currently a **student of Applied Computer Science** from Poland, passionate about exploring the ever-evolving world of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**.
-
-## 🌱 What I'm Currently Working On:
-- **Deep Fake Audio Detection**: Developing a program to detect manipulated audio.
+My name is Tymek and I'm currently a **student of Artificial Intelligence** from Poland, passionate about exploring the ever-evolving world of **Machine Learning (ML)** and **Deep Learning (DL)**.
+<!---
 
 ## 💡 Interests:
-- **Artificial Intelligence**
-- **Machine Learning & Deep Learning**
-- **Python**
-- **Java**  
+- **Representation Learning**
+- **Gaussian Splats**
+- **P**
 
+-->
 
 <!---
 your comment goes here
